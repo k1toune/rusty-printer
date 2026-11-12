@@ -1,4 +1,4 @@
-# Rust Printer
+# Rusty Printer
 
 A lightweight printing utility written in Rust for interacting with system printers and managing print jobs.
 
