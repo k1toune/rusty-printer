@@ -1,4 +1,7 @@
-
+// Rusty Printer
+// Made by K1toune
+// ──────────────────
+//     K1T0UNE <3
 use printers::{get_default_printer, get_printers};
 
 fn main() {
